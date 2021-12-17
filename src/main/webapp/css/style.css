@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-main {
+    background-color: antiquewhite;
+    min-height: 100vh;
+}
+
+.container-sub {
+    padding-top: 50px;
+}
+
+.alert-error {
+    color: red;
+}
+
+.alert {
+    margin-top: 30px;
+}
+
+#user_name {
+    margin-right: 30px;
+}
+
+.nav-component {
+    margin-right: 30px;
+}
+
+.col-room {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.search-component {
+    margin-right: 8px;
+}
